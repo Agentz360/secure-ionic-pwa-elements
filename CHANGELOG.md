@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.4.0](https://github.com/ionic-team/pwa-elements/compare/v3.3.0...v3.4.0) (2026-02-19)
+
+### Features
+
+**feat: Add onCanceled event for action sheet ([#138](https://github.com/ionic-team/pwa-elements/issues/138))**
+
 ## [3.3.0](https://github.com/ionic-team/pwa-elements/compare/v3.2.2...v3.3.0) (2024-05-17)
 
 ### Features
