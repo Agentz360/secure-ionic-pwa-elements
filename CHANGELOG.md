@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.4.0](https://github.com/ionic-team/pwa-elements/compare/v3.3.0...v3.4.0) (2026-02-19)
+
+### Features
+
+**feat: Add onCanceled event for action sheet ([#138](https://github.com/ionic-team/pwa-elements/issues/138))**
+
+## [3.3.0](https://github.com/ionic-team/pwa-elements/compare/v3.2.2...v3.3.0) (2024-05-17)
+
+### Features
+
+**feat: Allow to hide the file picker button ([#130](https://github.com/ionic-team/pwa-elements/issues/130))**
+
 ## [3.2.2](https://github.com/ionic-team/pwa-elements/compare/v3.2.1...v3.2.2) (2023-07-20)
 
 ### Bug Fixes
